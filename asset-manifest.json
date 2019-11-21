@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hotel-project/static/css/main.b3f91041.chunk.css",
+    "main.js": "/hotel-project/static/js/main.672614c6.chunk.js",
+    "main.js.map": "/hotel-project/static/js/main.672614c6.chunk.js.map",
+    "runtime-main.js": "/hotel-project/static/js/runtime-main.67115f3b.js",
+    "runtime-main.js.map": "/hotel-project/static/js/runtime-main.67115f3b.js.map",
+    "static/css/2.b39d42bf.chunk.css": "/hotel-project/static/css/2.b39d42bf.chunk.css",
+    "static/js/2.aef8b866.chunk.js": "/hotel-project/static/js/2.aef8b866.chunk.js",
+    "static/js/2.aef8b866.chunk.js.map": "/hotel-project/static/js/2.aef8b866.chunk.js.map",
+    "index.html": "/hotel-project/index.html",
+    "precache-manifest.1eb0382dfe6dad505739f3dd0b718940.js": "/hotel-project/precache-manifest.1eb0382dfe6dad505739f3dd0b718940.js",
+    "service-worker.js": "/hotel-project/service-worker.js",
+    "static/css/2.b39d42bf.chunk.css.map": "/hotel-project/static/css/2.b39d42bf.chunk.css.map",
+    "static/css/main.b3f91041.chunk.css.map": "/hotel-project/static/css/main.b3f91041.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67115f3b.js",
+    "static/css/2.b39d42bf.chunk.css",
+    "static/js/2.aef8b866.chunk.js",
+    "static/css/main.b3f91041.chunk.css",
+    "static/js/main.672614c6.chunk.js"
+  ]
+}
