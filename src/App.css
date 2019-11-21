@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.navbar li{
+  display: inline-block;
+  margin: 0 30px;
+}
